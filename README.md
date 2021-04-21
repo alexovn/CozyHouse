@@ -1,2 +1,2 @@
-# cozyhouse.github.io
+# CozyHouse
 CozyHouse
